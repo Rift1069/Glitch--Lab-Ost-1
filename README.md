@@ -1,5 +1,5 @@
-> **Note**
-> More songs are coming soon.
+:warning: **Warning**: More songs are coming soon.
+
 
 ## Glitch--Lab-Ost-1
 
